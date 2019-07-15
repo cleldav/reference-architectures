@@ -51,7 +51,7 @@
                         "namePrefix": "jb",
                         "size": "Standard_DS2_v2",
                         "adminUsername": "testadminuser",
-                        "adminPassword": "[replace-with-password]",
+                        "adminPassword": "Gu1ldhaLL!!2019",
                         "virtualNetwork": {
                             "name": "ra-ntier-vnet"
                         },
@@ -99,7 +99,7 @@
                         "namePrefix": "ad",
                         "size": "Standard_DS3_v2",
                         "adminUserName": "adminUser",
-                        "adminPassword": "[replace-with-password]",
+                        "adminPassword": "Gu1ldhaLL!!2019",
                         "nics": [
                             {
                                 "subnetName": "ad",
@@ -150,11 +150,11 @@
                                         "ReplicationFrequency": 10,
                                         "AdminCreds": {
                                           "UserName": "adminUser",
-                                          "Password": "[replace-with-password]"
+                                          "Password": "Gu1ldhaLL!!2019"
                                         },
                                         "SafeModeAdminCreds": {
                                           "UserName": "testsafeadminuser",
-                                          "Password": "[replace-with-safe-password]"
+                                          "Password": "Gu1ldhaLL!!2019"
                                         }
                                       }
                                     }
@@ -232,11 +232,11 @@
                                           "PrimaryDcIpAddress": "10.0.4.4",
                                           "AdminCreds": {
                                             "UserName": "adminUser",
-                                            "Password": "[replace-with-password]"
+                                            "Password": "Gu1ldhaLL!!2019"
                                           },
                                           "SafeModeAdminCreds": {
                                             "UserName": "testsafeadminuser",
-                                            "Password": "[replace-with-safe-password]"
+                                            "Password": "Gu1ldhaLL!!2019"
                                           }
                                        }
                                     }
@@ -294,7 +294,7 @@
                         "size": "Standard_DS12_v2",
                         "computerNamePrefix": "sql",
                         "adminUsername": "adminUser",
-                        "adminPassword": "[replace-with-password]",
+                        "adminPassword": "Gu1ldhaLL!!2019",
                         "osType": "windows",
                         "imageReference": {
                             "offer": "SQL2017-WS2016",
@@ -383,7 +383,7 @@
                                     "Options": 3
                                 },
                                 "protectedSettings": {
-                                    "Password": "[replace-with-password]"
+                                    "Password": "Gu1ldhaLL!!2019"
                                 }
                             }
                         ]
@@ -415,11 +415,11 @@
                                             "domainName": "contoso.com",
                                             "Admincreds": {
                                                 "userName": "adminUser",
-                                                "password": "[replace-with-password]"
+                                                "password": "Gu1ldhaLL!!2019"
                                             },
                                             "sqlServiceCreds": {
                                                 "userName": "sqlservicetestuser",
-                                                "password": "[replace-with-sql-password]"
+                                                "password": "Gu1ldhaLL!!2019"
                                             },
                                             "ClusterName": "AOCluster",
                                             "ClusterOwnerNode": "sql1",
@@ -459,11 +459,11 @@
                                             "domainName": "contoso.com",
                                             "Admincreds": {
                                                 "userName": "adminUser",
-                                                "password": "[replace-with-password]"
+                                                "password": "Gu1ldhaLL!!2019"
                                             },
                                             "sqlServiceCreds": {
                                                 "userName": "sqlservicetestuser",
-                                                "password": "[replace-with-sql-password]"
+                                                "password": "Gu1ldhaLL!!2019"
                                             },
                                             "ClusterName": "AOCluster",
                                             "ClusterOwnerNode": "sql1",
@@ -503,11 +503,11 @@
                                             "domainName": "contoso.com",
                                             "Admincreds": {
                                                 "userName": "adminUser",
-                                                "password": "[replace-with-password]"
+                                                "password": "Gu1ldhaLL!!2019"
                                             },
                                             "sqlServiceCreds": {
                                                 "userName": "sqlservicetestuser",
-                                                "password": "[replace-with-sql-password]"
+                                                "password": "Gu1ldhaLL!!2019"
                                             },
                                             "ClusterName": "AOCluster",
                                             "ClusterOwnerNode": "sql1",
@@ -529,7 +529,7 @@
                         "size": "Standard_DS2_v2",
                         "computerNamePrefix": "web",
                         "adminUsername": "adminUser",
-                        "adminPassword": "[replace-with-password]",
+                        "adminPassword": "Gu1ldhaLL!!2019",
                         "virtualNetwork": {
                             "name": "ra-ntier-vnet"
                         },
@@ -559,7 +559,7 @@
                                     "Options": 3
                                 },
                                 "protectedSettings": {
-                                    "Password": "[replace-with-password]"
+                                    "Password": "Gu1ldhaLL!!2019"
                                 }
                             },
                             {
@@ -652,7 +652,7 @@
                         "size": "Standard_DS2_v2",
                         "computerNamePrefix": "biz",
                         "adminUsername": "adminUser",
-                        "adminPassword": "[replace-with-password]",
+                        "adminPassword": "Gu1ldhaLL!!2019",
                         "virtualNetwork": {
                             "name": "ra-ntier-vnet"
                         },
@@ -684,7 +684,7 @@
                                     "Options": 3
                                 },
                                 "protectedSettings": {
-                                    "Password": "[replace-with-password]"
+                                    "Password": "Gu1ldhaLL!!2019"
                                 }
                             },
                             {
