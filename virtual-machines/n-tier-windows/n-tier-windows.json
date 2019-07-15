@@ -425,7 +425,7 @@
                                             "ClusterOwnerNode": "sql1",
                                             "ClusterIP": "10.0.3.30",
                                             "witnessStorageBlobEndPoint": "https://storageuk01.blob.core.windows.net",
-                                            "witnessStorageAccountKey": "[replace-with-storagekey]"
+                                            "witnessStorageAccountKey": "pwm5qf+DyGWYH2Q0qqWRB9TSwj2u5uyxXBA5u1uGwZgAfzNqIU5/sp064L2mDeZ4DOHbBbYjdRGyQUJ72+k4Pg=="
                                         }
                                     }
                                 }
@@ -469,7 +469,7 @@
                                             "ClusterOwnerNode": "sql1",
                                             "ClusterIP": "10.0.3.30",
                                             "witnessStorageBlobEndPoint": "https://storageuk01.blob.core.windows.net",
-                                            "witnessStorageAccountKey": "[replace-with-storagekey]"
+                                            "witnessStorageAccountKey": "pwm5qf+DyGWYH2Q0qqWRB9TSwj2u5uyxXBA5u1uGwZgAfzNqIU5/sp064L2mDeZ4DOHbBbYjdRGyQUJ72+k4Pg=="
                                         }
                                     }
                                 }
@@ -513,7 +513,7 @@
                                             "ClusterOwnerNode": "sql1",
                                             "ClusterIP": "10.0.3.30",
                                             "witnessStorageBlobEndPoint": "https://storageuk01.blob.core.windows.net",
-                                            "witnessStorageAccountKey": "[replace-with-storagekey]"
+                                            "witnessStorageAccountKey": "pwm5qf+DyGWYH2Q0qqWRB9TSwj2u5uyxXBA5u1uGwZgAfzNqIU5/sp064L2mDeZ4DOHbBbYjdRGyQUJ72+k4Pg=="
                                         }
                                     }
                                 }                            
