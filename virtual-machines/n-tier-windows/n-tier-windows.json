@@ -424,7 +424,7 @@
                                             "ClusterName": "AOCluster",
                                             "ClusterOwnerNode": "sql1",
                                             "ClusterIP": "10.0.3.30",
-                                            "witnessStorageBlobEndPoint": "https://[replace-with-storageaccountname].blob.core.windows.net",
+                                            "witnessStorageBlobEndPoint": "https://storageuk01.blob.core.windows.net",
                                             "witnessStorageAccountKey": "[replace-with-storagekey]"
                                         }
                                     }
@@ -468,7 +468,7 @@
                                             "ClusterName": "AOCluster",
                                             "ClusterOwnerNode": "sql1",
                                             "ClusterIP": "10.0.3.30",
-                                            "witnessStorageBlobEndPoint": "https://[replace-with-storageaccountname].blob.core.windows.net",
+                                            "witnessStorageBlobEndPoint": "https://storageuk01.blob.core.windows.net",
                                             "witnessStorageAccountKey": "[replace-with-storagekey]"
                                         }
                                     }
@@ -512,7 +512,7 @@
                                             "ClusterName": "AOCluster",
                                             "ClusterOwnerNode": "sql1",
                                             "ClusterIP": "10.0.3.30",
-                                            "witnessStorageBlobEndPoint": "https://[replace-with-storageaccountname].blob.core.windows.net",
+                                            "witnessStorageBlobEndPoint": "https://storageuk01.blob.core.windows.net",
                                             "witnessStorageAccountKey": "[replace-with-storagekey]"
                                         }
                                     }
